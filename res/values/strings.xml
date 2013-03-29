@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">aboutmetest</string>
-    <string name="scan">扫一扫</string>
-    <string name="show_my_info">我的二维码</string>
-    <string name="make_qrcode">制作二维码</string>
-    <string name="myinfo">"My API desc"</string>
-</resources>
